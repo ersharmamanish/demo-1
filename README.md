@@ -6,8 +6,6 @@ this is new repo
 
 ---
 
-''' 
-
- Print('Hello World')
- 
+'''
+Print('Hello World') 
 '''
