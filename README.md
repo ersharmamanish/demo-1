@@ -1,18 +1,11 @@
 # demo-1
 this is new repo
-> let's  see what happend
-----
-- Hi
-- what
-- is
-- this
----
 
+- Point 1
+- Point 2
 
 ---
 
- print('hello')
- 
- print('world')
-
----
+''' 
+ Print('Hello World')
+'''
